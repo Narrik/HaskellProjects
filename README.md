@@ -1,1 +1,1 @@
-# HaskellProjects
+# Haskell Projects
